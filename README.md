@@ -1,6 +1,6 @@
 # OX2000
 
-OX2000 is a tic-tac-toe game with both singleplayer mode, where you can play with the computer, and multiplayer mode, which allows you to connect and play with your frieds.
+OX2000 is a tic-tac-toe game with both singleplayer mode, where you can play with the computer, and multiplayer mode, which allows you to connect and play with your friends.
 
 This is the official repository for OX2000. Here we store the public files of the game. You can download all the files stored here simply selecting them or as an archive file.
 
